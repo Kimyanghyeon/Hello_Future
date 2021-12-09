@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vaccine">
+    <item>BCG</item>
+    <item>HepB</item>
+    <item>DTap</item>
+    <item>Tdap/Td</item>
+    <item>IPV</item>
+    <item>Hib</item>
+    <item>PCV</item>
+    <item>PPSV</item>
+    <item>MMR</item>
+    <item>VAR</item>
+    <item>HepA</item>
+    <item>IJEV</item>
+    <item>LJEV</item>
+    <item>HPV</item>
+    <item>RV1</item>
+    <item>RV5</item>
+    </string-array>
+
+    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item1"
+        android:title="SELECT"
+        android:icon="@drawable/icon_loc"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:title="NoKidMap"
+        android:icon="@drawable/icon_map"/>
+    //icon 속성 넣기
+
+</menu>
